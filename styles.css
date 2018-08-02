@@ -101,14 +101,14 @@ p {
 .about {
   text-align: center;
 }
+.about-author img {
+  width: 100px;
+  height: 100px;
+  vertical-align: middle;
+}
 .post-author img, .about-author img {
   border-radius: 50%;
 }
 .post-container:nth-child(even) {
   background-color: #f2f2f2;
-}
-.about-author img {
-  width: 100px;
-  height: 100px;
-  vertical-align: middle;
 }
